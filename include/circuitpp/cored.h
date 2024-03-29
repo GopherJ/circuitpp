@@ -9,6 +9,7 @@
 #include <iostream>
 #include <functional>
 #include <string>
+
 using std::string;
 namespace circuitpp2
 {
@@ -439,7 +440,7 @@ namespace circuitpp2
       this->input1 = input1;
       this->input2 = input2;
       this->input3 = input3;
-      get_hash_ternary_op(hash, T_OPERATION_TYPE, input1->get_hash_u8(), input2->get_hash_u8());
+      get_hash_ternary_op(hash, T_OPERATION_TYPE, input1->get_hash_u8(), input2->get_hash_u8(), nullptr);
     }
     ACOperation *get_nth_input(int n)
     {
@@ -612,7 +613,7 @@ namespace circuitpp2
     int output_length;
   };
 
-template <typename Felt> 
+template <typename Felt>
   class ExampleGeneratorRegistry {
   public:
     ExampleGeneratorRegistry() {}

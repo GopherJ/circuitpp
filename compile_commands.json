@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/cxxopts-src/include -std=gnu++20 -o CMakeFiles/CircuitPPStandalone.dir/source/main.cpp.o -c /home/cj/Projects/circuitpp/standalone/source/main.cpp",
+  "file": "/home/cj/Projects/circuitpp/standalone/source/main.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/blake3/blake3.cpp.o -c /home/cj/Projects/circuitpp/source/blake3/blake3.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/blake3/blake3.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/blake3/blake3_dispatch.cpp.o -c /home/cj/Projects/circuitpp/source/blake3/blake3_dispatch.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/blake3/blake3_dispatch.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/blake3/blake3_portable.cpp.o -c /home/cj/Projects/circuitpp/source/blake3/blake3_portable.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/blake3/blake3_portable.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/circuitpp/builder.cpp.o -c /home/cj/Projects/circuitpp/source/circuitpp/builder.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/circuitpp/builder.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/circuitpp/core_base.cpp.o -c /home/cj/Projects/circuitpp/source/circuitpp/core_base.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/circuitpp/core_base.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/circuitpp/cored.cpp.o -c /home/cj/Projects/circuitpp/source/circuitpp/cored.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/circuitpp/cored.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/circuitpp/eval.cpp.o -c /home/cj/Projects/circuitpp/source/circuitpp/eval.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/circuitpp/eval.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/circuitpp/finalized.cpp.o -c /home/cj/Projects/circuitpp/source/circuitpp/finalized.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/circuitpp/finalized.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/greeter.cpp.o -c /home/cj/Projects/circuitpp/source/greeter.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/greeter.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/include -I/home/cj/Projects/circuitpp/build/standalone/_deps/circuitpp-build/PackageProjectInclude -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++20 -o CMakeFiles/CircuitPP.dir/source/poseidon_goldilocks.cpp.o -c /home/cj/Projects/circuitpp/source/poseidon_goldilocks.cpp",
+  "file": "/home/cj/Projects/circuitpp/source/poseidon_goldilocks.cpp"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++11 -o CMakeFiles/fmt.dir/src/format.cc.o -c /home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/src/format.cc",
+  "file": "/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/src/format.cc"
+},
+{
+  "directory": "/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-build",
+  "command": "/usr/bin/c++  -I/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/include -std=gnu++11 -o CMakeFiles/fmt.dir/src/os.cc.o -c /home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/src/os.cc",
+  "file": "/home/cj/Projects/circuitpp/build/standalone/_deps/fmt-src/src/os.cc"
+}
+]

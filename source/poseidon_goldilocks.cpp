@@ -6,9 +6,12 @@
 
 #include <cassert>
 
+#include <cstring>
 #include <circuitpp/poseidon_goldilocks.h>
 #include "circuitpp/poseidon_goldilocks_constants.h"
 #include <math.h> /* floor */
+
+
 
 namespace Goldilocks
 {

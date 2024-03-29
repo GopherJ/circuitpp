@@ -5,6 +5,8 @@
 #include <vector>
 #include "goldilocks_field.h"
 
+#include <cstring>
+
 #define RATE 8
 #define CAPACITY 4
 #define HASH_SIZE 4
@@ -30,7 +32,7 @@ private:
     inline void static prod_(Felt *x, const Felt alpha, const Felt C[SPONGE_WIDTH]);
 
 public:
-    void static hash_full_result_seq(Felt *, const Felt *);    
+    void static hash_full_result_seq(Felt *, const Felt *);
     inline void static hash_full_result(Felt *state, const Felt *input){hash_full_result_seq(state, input);};
 
     void static hash_seq(Felt (&state)[CAPACITY], const Felt (&input)[SPONGE_WIDTH]);
