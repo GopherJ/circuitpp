@@ -6,7 +6,7 @@ warning: my c++ is very bad
 
 ```bash
 cmake -S standalone -B build/standalone
-cmake --build build/standalone
+cd build/standalone && make
 ./build/standalone/CircuitPP --help
 ```
 
